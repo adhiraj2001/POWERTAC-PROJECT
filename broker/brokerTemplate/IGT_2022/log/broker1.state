@@ -1,0 +1,7 @@
+1509:org.powertac.common.msg.BrokerAuthentication::null::new::ZI::secret
+1932:org.powertac.common.Broker::200000001::new::default broker
+2718:org.powertac.common.TimeService::null::setCurrentTime::2008-11-12T23:00:00.000Z
+5564:org.powertac.common.TimeService::null::setCurrentTime::2008-11-13T00:00:00.000Z
+10561:org.powertac.common.TimeService::null::setCurrentTime::2008-11-13T01:00:00.000Z
+15563:org.powertac.common.TimeService::null::setCurrentTime::2008-11-13T02:00:00.000Z
+20562:org.powertac.common.TimeService::null::setCurrentTime::2008-11-13T03:00:00.000Z
